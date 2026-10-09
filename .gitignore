@@ -4,3 +4,6 @@ docs/
 .Rproj.user
 .Rhistory
 .RData
+README.md
+
+**/*.quarto_ipynb
