@@ -2,42 +2,35 @@
 title: "Team"
 ---
 
-The team list lives in `team.csv`. To add or change a person, edit that file in
-RStudio and re-render; the tables below update automatically.
+<!-- The team list lives in `team.csv`. To add or change a person, edit that file in -->
+<!-- RStudio and re-render; the tables below update automatically. -->
 
 ```{r}
 #| label: load-team
 #| echo: false
 team <- read.csv("team.csv", stringsAsFactors = FALSE)
-show_group <- function(g) {
+show_people <- function(x) {
   knitr::kable(
-    team[team$group == g, c("name", "role", "institute")],
+    x[, c("name", "role", "institute")],
     col.names = c("Name", "Role", "Institute"),
     row.names = FALSE
   )
 }
 ```
 
-## Core team (NIOZ)
+## Project team
 
 ```{r}
 #| echo: false
-show_group("Core team")
-```
-
-## Partner institutes
-
-```{r}
-#| echo: false
-show_group("Partner")
+show_people(team[team$group != "Consortium", ])
 ```
 
 ## Consortium members
 
 ```{r}
 #| echo: false
-show_group("Consortium")
+show_people(team[team$group == "Consortium", ])
 ```
 
-Source: [NIOZ project page](https://www.nioz.nl/en/research/projects/phyvir).
-Please check names, titles and affiliations before publishing.
+<!-- Source: [NIOZ project page](https://www.nioz.nl/en/research/projects/phyvir). -->
+<!-- Please check names, titles and affiliations before publishing. -->
