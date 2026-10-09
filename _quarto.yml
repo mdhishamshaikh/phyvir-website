@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "PHYVIR"
+  description: "Resolving marine phytoplankton–virus interactions from local to global scales"
+  site-url: "https://mdhishamshaikh.github.io/phyvir-website/"
+  repo-url: "https://github.com/mdhishamshaikh/phyvir-website"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "The project"
+        href: project.qmd
+      - text: "Expedition"
+        href: expedition.qmd
+      - text: "Team"
+        href: team.qmd
+      - text: "Publications"
+        href: publications.qmd
+  page-footer:
+    left: "PHYVIR is funded by NWO (OCENW.XL.23.095) and hosted at NIOZ."
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      light: [flatly, styles.css]
+    toc: true
+    toc-depth: 2

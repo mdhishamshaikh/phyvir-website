@@ -1,0 +1,38 @@
+/* Ocean palette: deep navy for text/nav, teal for accents.
+   Chosen to evoke the marine theme while keeping contrast
+   (white text on #0b3c5d is ~11:1, well above WCAG AA). */
+:root {
+  --phyvir-navy: #0b3c5d;
+  --phyvir-teal: #1d7f8c;
+  --phyvir-sand: #f4f1ea;
+}
+
+.navbar { background-color: var(--phyvir-navy) !important; }
+
+.hero {
+  background: linear-gradient(135deg, var(--phyvir-navy), var(--phyvir-teal));
+  color: #fff;
+  padding: 3.5rem 2rem;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+.hero h1 { color: #fff; margin-top: 0; font-size: 3rem; }
+.hero p  { font-size: 1.25rem; max-width: 46rem; }
+.hero a  { color: #fff; text-decoration: underline; }
+
+.facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+.fact {
+  background: var(--phyvir-sand);
+  border-left: 4px solid var(--phyvir-teal);
+  padding: 0.8rem 1rem;
+  border-radius: 0.25rem;
+}
+.fact .label { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: #555; }
+.fact .value { font-size: 1.15rem; font-weight: 600; color: var(--phyvir-navy); }
+
+h2 { color: var(--phyvir-navy); }

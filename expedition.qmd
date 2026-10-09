@@ -1,0 +1,33 @@
+---
+title: "PHYVIR-1 expedition"
+---
+
+On 30 April 2026 a team from NIOZ, UvA-IBED, RUG and NIOO boarded the new
+research vessel **RV Anna Weber-van Bosse** for its first scientific cruise. During
+May they sailed the North Atlantic, from warm, nutrient-poor waters off Cape
+Verde to cooler, more nutrient-rich areas near Iceland.
+
+## What was sampled
+
+Water from the sunlit part of the ocean was collected to study:
+
+- diversity and gene function of phytoplankton and virus communities,
+- their activity and loss rates,
+- impacts on elemental and lipid composition,
+- how virus–host interactions change under different environmental conditions.
+
+Some samples were processed and stored for later analysis; others were analysed
+on board or used for incubation experiments.
+
+## Why it matters
+
+The measurements should show when viral activity shifts phytoplankton
+communities, and when viruses keep carbon in the upper ocean or help move it to
+the deep. This is the missing data needed to refine climate models and predict
+marine primary production under rapid environmental change.
+
+## Blog series from the ship
+
+- [PHYVIR expedition: Entering rougher waters](https://nioo.knaw.nl/en/blogs/phyvir-expedition-entering-rougher-waters) (NIOO-KNAW, 21 May 2026)
+- [Full blog series on the NIOZ expedition site](https://www.nioz.nl/en/news-and-blogs/blog/phyvir-expedition)
+- [UvA-IBED news item](https://ibed.uva.nl/content/news/2026/05/what-is-the-impact-of-viruses-on-marine-phytoplankton-and-ecosystems.html) (11 May 2026)

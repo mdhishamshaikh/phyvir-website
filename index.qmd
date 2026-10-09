@@ -1,0 +1,60 @@
+---
+title: ""
+toc: false
+page-layout: full
+---
+
+::: hero
+# PHYVIR
+
+Resolving marine phytoplankton–virus interactions from local to global scales.
+:::
+
+Phytoplankton, the microscopic plants of the ocean, produce roughly half of the
+oxygen on Earth, take up large amounts of CO~2~, and feed marine food webs.
+They are also infected by viruses. How much those infections shape ocean
+productivity and carbon and nutrient cycling is still poorly known.
+PHYVIR combines laboratory experiments, an Atlantic Ocean expedition and global
+ecosystem models to close that gap.
+
+::: facts
+::: fact
+::: label
+Project leader
+:::
+::: value
+Prof. Corina Brussaard
+:::
+:::
+::: fact
+::: label
+Duration
+:::
+::: value
+2025 – 2030
+:::
+:::
+::: fact
+::: label
+Funding
+:::
+::: value
+NWO XL, €3.1 M
+:::
+:::
+::: fact
+::: label
+Partners
+:::
+::: value
+NIOZ · UvA-IBED · NIOO-KNAW · RUG
+:::
+:::
+:::
+
+## Explore
+
+- **[The project](project.qmd)**: the knowledge gap and the five objectives.
+- **[Expedition](expedition.qmd)**: the first PHYVIR cruise, Cape Verde to Iceland, aboard RV *Anna Weber-van Bosse*.
+- **[Team](team.qmd)**: researchers, consortium members and students.
+- **[Publications](publications.qmd)**: related scientific output.

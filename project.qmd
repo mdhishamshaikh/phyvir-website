@@ -1,0 +1,43 @@
+---
+title: "The project"
+---
+
+## Why viruses matter for the ocean
+
+Marine phytoplankton are responsible for about 50% of global oxygen production
+and sequester vast amounts of anthropogenic CO~2~. Viral infection kills host
+cells (viral lysis) and so redirects the flow of energy and elements through
+the ecosystem, with far-reaching consequences for ocean structure and
+functioning.
+
+Several things are still poorly known:
+
+- How fast viruses kill different phytoplankton groups (lysis rates).
+- How infection changes the elemental composition (stoichiometry) and traits of the host.
+- How environmental stressors linked to climate change alter virus–host interactions.
+- How virus and host traits are distributed geographically.
+
+Global ecosystem and biogeochemical models usually leave virus–host dynamics
+out, include them only implicitly, or treat all phytoplankton groups alike.
+
+## Five linked objectives
+
+1. **Single host–virus systems.** Detailed trait characterisation, elemental stoichiometry and gene expression for the major phytoplankton groups, used to evaluate a mechanistic trait-based model.
+2. **Multi-host laboratory systems.** How viral infection affects competition, particularly under nutrient limitation and temperature shifts.
+3. **Semi-natural communities.** Manipulated communities to study effects on host gene expression and trait distribution under the same stressors.
+4. **Atlantic fieldwork.** Phytoplankton and virus biogeography from the tropics to sub-polar waters, with population-specific viral lysis rates and the active infections identified by cell sorting and targeted omics.
+5. **Global models.** Phytoplankton–virus interactions integrated into global marine ecosystem models, validated against large-scale patterns of lysis rates and viral biogeography.
+
+## Facts
+
+| | |
+|---|---|
+| Full title | Resolving marine phytoplankton–virus interactions from local to global scales |
+| Project leader | Prof. dr. Corina P.D. Brussaard (NIOZ) |
+| Funder | NWO, research programme XL (OCENW.XL.23.095) |
+| Amount awarded | €3,113,052 |
+| Duration | NWO lists 2025–2030; NIOZ lists 31 Dec 2024 – 30 Sept 2029 |
+| Grant DOI | [10.61686/AFOMM75533](https://doi.org/10.61686/AFOMM75533) |
+
+Sources: [NIOZ project page](https://www.nioz.nl/en/research/projects/phyvir),
+[NWO project database](https://www.nwo.nl/en/projects/afomm75533).
